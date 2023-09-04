@@ -1,0 +1,114 @@
+{
+	"questions": [
+		{
+			"question": "Which one is the smallest ocean in the World?",
+			"options": ["Indian", "Pacific", "Atlantic", "Arctic"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Which country gifted the ‘Statue of Liberty’ to USA in 1886?",
+			"options": ["France", "Canada", "Brazil", "England"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Dead Sea is located between which two countries?",
+			"options": [
+				"Jordan and Sudan",
+				"Jordan and Israel",
+				"Turkey and UAE",
+				"UAE and Egypt"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "In which ocean ‘Bermuda Triangle’ region is located?",
+			"options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which country is also known as the ‘Land of Rising Sun’?",
+			"options": ["Japan", "New Zealand", "Fiji", "China"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which continent has the highest number of countries?",
+			"options": ["Asia", "Europe", "North America", "Africa"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "The world’s longest straight road without any corners is located in-",
+			"options": ["USA", "Australia", "Saudi Arabia", "China"],
+			"correctOption": 2,
+			"points": 30
+		},
+		{
+			"question": "Which one is the biggest island in the World?",
+			"options": ["Borneo", "Finland", "Sumatra", "Greenland"],
+			"correctOption": 3,
+			"points": 20
+		},
+		{
+			"question": "In which year Hong Kong became a part of China after British Rule?",
+			"options": ["1982", "1989", "1995", "1997"],
+			"correctOption": 3,
+			"points": 20
+		},
+		{
+			"question": "Which one is the World’s highest-altitude civilian airport?",
+			"options": [
+				"Daocheng Yading Airport, China",
+				"Kushok Bakula Rimpochhe Airport, Leh",
+				"Qamdo Bamda Airport, China",
+				"None of the above"
+			],
+			"correctOption": 0,
+			"points": 30
+		},
+		{
+			"question": "Which river is flowing through Grand Canyon in Arizona, USA?",
+			"options": [
+				"Missouri River",
+				"Colorado River",
+				"Mississippi River",
+				"Yukon River"
+			],
+			"correctOption": 1,
+			"points": 30
+		},
+		{
+			"question": "How many countries were participated as founding member of United Nation?",
+			"options": ["45", "50", "51", "75"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Which one is the longest continental mountain range in the world?",
+			"options": ["Himalaya", "Andes", "Rocky Mountains", "Ural Mountains"],
+			"correctOption": 1,
+			"points": 30
+		},
+		{
+			"question": "Which one is the largest tropical rain forest in the world?",
+			"options": [
+				"Amazon",
+				"Bosawas",
+				"Southeast Asian Rain Forest",
+				"Daintree Rain Forest"
+			],
+			"correctOption": 0,
+			"points": 30
+		},
+		{
+			"question": "Which Plateau is known as the ‘Roof of the World’?",
+			"options": ["Andes", "Himalaya", "Karakoram", "Pamir"],
+			"correctOption": 3,
+			"points": 20
+		}
+	]
+}
