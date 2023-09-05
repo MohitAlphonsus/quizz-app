@@ -1,9 +1,18 @@
-export default function Option() {
+export default function Option({ option, dispatch, index, answer, question }) {
+	const hasAnswered = answer !== null;
 	return (
-		<div>option</div>
-		// <div className="option">
-		// 	<span>A</span>
-		// 	<p>{option}</p>
-		// </div>
+		<button
+			className={`option ${answer === index ? 'answer' : ''} ${
+				hasAnswered
+					? index === question.correctOption
+						? 'correct'
+						: 'wrong'
+					: ''
+			}`}
+			disabled={answer !== null}
+			onClick={() => dispatch({ type: 'newAnswer', payload: index })}
+		>
+			{option}
+		</button>
 	);
 }
