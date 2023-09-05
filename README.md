@@ -4,6 +4,6 @@
 
 ### screenshots
 
-![Alt text](/screenshots/screen-1.png)
-![Alt text](/screenshots/screen-2.png)
-![Alt text](/screenshots/screen-3.png)
+![alt text](/screenshots/screen-1.png)
+![alt text](/screenshots/screen-2.png)
+![alt text](/screenshots/screen-3.png)
