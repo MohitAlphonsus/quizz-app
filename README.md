@@ -4,6 +4,6 @@
 
 ### screenshots
 
-![alt text](/screenshots/screen-1.png)
-![alt text](/screenshots/screen-2.png)
-![alt text](/screenshots/screen-3.png)
+![initial-start-screen](./screenshots/screen-1.png)
+![quizz-screen](./screenshots/screen-2.png)
+![finish-score-screen](./screenshots/screen-3.png)
